@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ruff_cache/
+*.log
+*.mp4
+*.webm
+*.mkv
+demo-recordings/
+.agent/
+BRIEF.md
+PROMPT.txt
+run-codex.cmd
