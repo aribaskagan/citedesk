@@ -1,4 +1,4 @@
-﻿# Status
+# Status
 
 Built a local FastAPI and browser MVP with a three-record official-source demo corpus, source-linked paraphrases, suggested dated actions, limited manually mapped IGI form fields, explicit evidence gaps, and unverified user material kept separate. README.md, DEMO.md and SUBMISSION_DRAFT.md describe setup, the walkthrough and the submission concept.
 
@@ -21,4 +21,4 @@ All three tests passed; compilation, JavaScript syntax and Ruff checks passed. A
 
 ## Remaining gaps and decisions
 
-This is a demonstration, not a live legal knowledge system: check all official sources and eligibility, applicable rules, actual deadlines and form requirements with IGI and the universities. Checklist dates are suggestions. Retrieval is keyword-based; the optional source URL is not fetched and pasted text is not used as evidence. Form fields are only a manually mapped subset, not full extraction. There is no persistence, authentication, automated submission or production security review. The no-evidence behavior is intentionally conservative but topic matching cannot detect every unanswered question. Public repo, Vultr deployment, recorded demo on Vultr, public URL and final submission require Kağan's decisions and remain undone. No deployment, submission or paid service was used.
+This is a demonstration, not a live legal knowledge system: check all official sources and eligibility, applicable rules, actual deadlines and form requirements with IGI and the universities. Checklist dates are suggestions. Retrieval is keyword-based; the optional source URL is not fetched and pasted text is not used as evidence. Form fields are only a manually mapped subset, not full extraction. There is no persistence, authentication, automated submission or production security review. The no-evidence behavior is intentionally conservative but topic matching cannot detect every unanswered question. Public repo https://github.com/aribaskagan/citedesk is published (MIT). A local demo video (citedesk-local-demo.mp4, about 46 seconds) was recorded of the MVP on localhost and was not uploaded. Still undone, pending Kağan's OK: Vultr credits, Vultr deployment, public demo URL, public video upload, and final Vultr Community submission. No paid service was used.
